@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059332165805",
+    "firebase_url": "https://travelku-537fe.firebaseio.com",
+    "project_id": "travelku-537fe",
+    "storage_bucket": "travelku-537fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059332165805:android:59d1daa75b030ecedbf624",
+        "android_client_info": {
+          "package_name": "com.asus.travelkumaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059332165805-nqp28lh3mldi16irha8kf8j5sjaam2fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1GUoXhh68E1Vwdc6XQERuIWXjcDMfdsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059332165805-nqp28lh3mldi16irha8kf8j5sjaam2fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
